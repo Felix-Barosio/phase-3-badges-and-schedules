@@ -31,6 +31,6 @@ def printer arrName
     badge_create.each do |badge|
         puts badge
     end
-    binding.pry
+    # binding.pry
 
 end
